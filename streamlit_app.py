@@ -12,7 +12,7 @@ import streamlit as st
 import json
 import tempfile
 import os
-from table_extractor_3 import PDFTableExtractor
+from table_extractor_old import PDFTableExtractor
 from validation_agent import TableValidationAgent, ValidationReport
 
 
